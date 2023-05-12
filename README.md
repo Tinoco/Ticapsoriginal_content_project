@@ -35,3 +35,6 @@ Edit great markdown files of any company or services with responsability.
     * India
 
 # All Content going to approval before publish
+
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
